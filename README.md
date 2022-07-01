@@ -3,6 +3,9 @@
 
 <h3 align="center">A passionate coding undergraduate from Viet Nam 👋</h3>
 
+-✍ I'm a student of: [Ho Chi Minh city University of FPT](https://uni.fpt.edu.vn/en-US/Default.aspx) (FPTHCM).
+- 🌱 I’m currently learning BackEnd (C sharpe, Java,...)
+
 
 
 
@@ -19,20 +22,11 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="100%"/>
       </p>
     </td>
   </tr>
 </table>
-
-
-
-
-
-<div>
-  
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
-</div>
 
 
 

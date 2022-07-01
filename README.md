@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate coding undergraduate from Viet Nam 👋</h3>
 
--✍ I'm a student of: [Ho Chi Minh city University of FPT](https://uni.fpt.edu.vn/en-US/Default.aspx) (FPTHCM).
+- ✍ I'm a student of: [Ho Chi Minh city University of FPT](https://uni.fpt.edu.vn/en-US/Default.aspx) (FPTHCM).
 - 🌱 I’m currently learning BackEnd (C sharpe, Java,...)
 
 

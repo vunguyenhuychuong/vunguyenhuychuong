@@ -1,5 +1,5 @@
 
-<h1> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />Hi 👋, I'm Vu Nguyen Huy Chuong</h1>
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />Hi 👋, I'm Vu Nguyen Huy Chuong</h1>
 
 <h3 align="center">A passionate coding undergraduate from Viet Nam 👋</h3>
 

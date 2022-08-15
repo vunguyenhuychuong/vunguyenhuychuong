@@ -25,9 +25,9 @@
     </a>
     </td>
     <td>
-      <a href="#" title="thanhhiepdev">
-        <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=vunguyenhuychuong   &show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
+       <p align="center"> 
+        <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="100%"/>
+      </p>
     </td>
   </tr>
 </table>

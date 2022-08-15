@@ -26,14 +26,11 @@
     </td>
     <td>
       <a href="#" title="thanhhiepdev">
-        <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=vunguyenhuychuong &show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+        <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=vunguyenhuychuong   &show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
     </td>
   </tr>
 </table>
-
-
-
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Where to find me  📫</h3>
 
@@ -54,12 +51,6 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
   </a>
 </div>
-
-
-
-
-
-![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
 
                                    
 

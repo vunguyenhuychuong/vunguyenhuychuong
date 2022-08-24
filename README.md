@@ -1,21 +1,4 @@
 
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />Hi 👋, I'm Vu Nguyen Huy Chuong</h1>
-
-<h3 align="center">A passionate coding undergraduate from Viet Nam 👋</h3>
-
-- ✍ I'm a student of: [Ho Chi Minh city University of FPT](https://uni.fpt.edu.vn/en-US/Default.aspx) (FPTHCM).
-- 🌱 I’m currently learning 
--  BackEnd (C sharpe, Java,...)
--  FrontEnd (Html,Css,Responsive,JavaScript)
-
-
-
-
-
-
-
-
-
 <table style="width:100%;">
   <tr>
     <td>

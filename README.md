@@ -9,7 +9,7 @@
     </td>
     <td>
        <p align="center"> 
-        <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="100%"/>
+        <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="200px"/>
       </p>
     </td>
   </tr>

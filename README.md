@@ -24,7 +24,7 @@
   <a href="https://www.youtube.com/channel/UCvXZppKx-nIOiWETGxnY_IA" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
   </a>
-  <a href="[#](https://www.linkedin.com/in/ch%C6%B0%C6%A1ng-v%C5%A9-7373ba249)" target="blank">
+  <a href="https://www.linkedin.com/in/ch%C6%B0%C6%A1ng-v%C5%A9-7373ba249" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
   </a>
   <a href="#" target="blank">
